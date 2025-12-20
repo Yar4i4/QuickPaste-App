@@ -2,7 +2,7 @@
 Менеджер горячих клавиш для быстрой вставки текста
 
 ## Скачать
-[QuickPaste.exe](./QuickPaste.exe) - готовая версия для Windows
+[QuickPasteTi.exe](QuickPasteTi.exe) - готовая версия для Windows
 
 ## Как пользоваться
 1. Скачай exe файл
@@ -26,7 +26,7 @@
 Global hotkey manager for quick text insertion
 
 ## Download
-[QuickPaste.exe](./QuickPaste.exe) - ready-to-use Windows version
+[QuickPaste.exe](./QuickPasteTi.exe) - ready-to-use Windows version
 
 ## How to use
 1. Download exe file
